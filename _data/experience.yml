@@ -1,6 +1,6 @@
 # Experience template
 - layout: left
-  company: <img src="images/logo.png" alt="logo" width="100" height="75" class="mb-0"> Research Data Analyst
+  company: Research Data Analyst
   # image: /assets/img/thumb.png # is not working should check how to add company icon
   job_title: Cogstate
   dates: July  - November 2019
