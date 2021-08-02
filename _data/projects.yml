@@ -16,9 +16,9 @@
       - Modeling (K-NN, Decission Tree, Gaussian Navie-Bayes)
    - Acheved an average model accuracy of 79% across all the models in <mark>Python</mark>(Jupyter, pandas, numpy, scikit-learn) 
 
-- layout: left 
+- layout: left
   name: juyvhgvkuyvj
-  job_title: Multiariate Analysis 
+  job_title: Multiariate Analysis
   link: View Project
  # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
  # quote: >
@@ -57,16 +57,16 @@
    - Obtain suitable ARIMA models through stastical outputs like AIC, BIC, p-values and EACF plots in <mark>R</mark> 
    
  - layout: left 
-  name: Forecasting Fish Egg Deposition
-  job_title: Time Series Analysis
-  link: View Project
+   name: Forecasting Fish Egg Deposition
+   job_title: Time Series Analysis
+   link: View Project
  # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
  # quote: >
  #   Short overview of the project (optional)
-  description: | # this will include new lines to allow paragraphs
-   - This project is an analysis of the best ARIMA models to forecast the Egg Deposition of the fish from 1981 to 1996
-   - Used MASE accuracy score, AIC, BIC, and EACF to finalise models in <mark>R</mark> 
-   - Obtain suitable ARIMA models through stastical outputs like AIC, BIC, p-values and EACF plots in <mark>R</mark>
+   description: | # this will include new lines to allow paragraphs
+    - This project is an analysis of the best ARIMA models to forecast the Egg Deposition of the fish from 1981 to 1996
+    - Used MASE accuracy score, AIC, BIC, and EACF to finalise models in <mark>R</mark> 
+    - Obtain suitable ARIMA models through stastical outputs like AIC, BIC, p-values and EACF plots in <mark>R</mark>
    
    
 - layout: left 
