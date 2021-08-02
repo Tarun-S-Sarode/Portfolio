@@ -14,5 +14,20 @@
       - Feature Selection and Ranking.
       - Hyper parameter tuning.
       - Modeling (K-NN, Decission Tree, Gaussian Navie-Bayes)
-   - Acheved an average model accuracy of 79% across all the models in <mark>Python</mark>(Jupyter, pandas, numpy, scikit-learn) 
+   - Acheved an average model accuracy of 79% across all the models in <mark>Python</mark>(Jupyter, pandas, numpy, scikit-learn).
+   
+- layout: left
+  name: juyvhgvkuyvj
+  job_title: Multiariate Analysis
+  link: View Project
+ # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+ # quote: >
+ #   Short overview of the project (optional)
+  description: | # this will include new lines to allow paragraphs
+   - This project is an exploratory analysis of
+        1. Chemical Components in Marijuana. 
+        2. Socio Economic Variables.
+        3. Fake and Genuine Bank Notes.
+   - The analysis gives insight into the relation between the variables of the data sets by using multivariate techniques as Principal Component, Factor Analysis and Discriminant Analysis.
+   - The analysis was carried out using <mark>SAS</mark>
 
