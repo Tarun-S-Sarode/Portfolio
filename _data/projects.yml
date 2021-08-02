@@ -65,7 +65,7 @@
  #   Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
    - This project is an analysis of the best ARIMA models to forecast the Egg Deposition of the fish from 1981 to 1996
-   Used MASE accuracy score, AIC, BIC, and EACF to finalise models in <mark>R</mark> 
+   - Used MASE accuracy score, AIC, BIC, and EACF to finalise models in <mark>R</mark> 
    - Obtain suitable ARIMA models through stastical outputs like AIC, BIC, p-values and EACF plots in <mark>R</mark>
    
    
