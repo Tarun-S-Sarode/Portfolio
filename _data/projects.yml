@@ -10,15 +10,15 @@
   description: | # this will include new lines to allow paragraphs
    - This Machine learning project focuses on predicting the credibility of the customers or subjects for loanrepaymentby analysing differentfactorswhich determine the decission on whether to approve or reject the customer request.
    - The modelling is performed using techniques which as:
-       - Encoding 
-       - Feature Selection and Ranking 
-       - Hyper parameter tuning 
-       - Modeling (K-NN, Decision Tree, Gaussian Navie-Bayes)
-   
-   - Acheved an average model accuracy of 79% across all the models. 
+        - Encoding.
+        - Feature Selection and Ranking.
+        - Hyper parameter tuning.
+        - Modeling (K-NN, Decission Tree, Gaussian Navie-Bayes)
+   - Acheved an average model accuracy of 79% across all the models in <mark>Python</mark>(Jupyter, pandas, numpy, scikit-learn) 
 
 - layout: left 
-  name: Multiariate Analysis 
+  name: 
+  job_title: Multiariate Analysis 
   link: View Project
  # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
  # quote: >
@@ -29,10 +29,11 @@
         2. Socio Economic Variables.
         3. Fake and Genuine Bank Notes.
    - The analysis gives insight into the relation between the variables of the data sets by using multivariate techniques as Principal Component, Factor Analysis and Discriminant Analysis.
-   - The analysis was carried out using SAS
+   - The analysis was carried out using <mark>SAS</mark>
 
 - layout: left 
   name: Forecasting Bitcoin Prices
+  job_title: Forecasting
   link: View Project
  # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
  # quote: >
@@ -40,18 +41,47 @@
   description: | # this will include new lines to allow paragraphs
    - Predicted the Bitcoin Prices for the future 10 days of the Time series data.
    - Applied Time Series Analysis techniques like ARIMA, SARIMA, GARCH and Residual Analysis to obtain MASE Table for accuracy.
-   - Used R to acurately forecast the future values along with plot.
+   - Used <mark>R</mark> to acurately forecast the future values along with plot.
    
    
 - layout: left 
-  name: Forecasting Bitcoin Prices
+  name: Time Series Model Specification of Ozone Layer
+  job_title: Time Series Analysis
   link: View Project
  # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
  # quote: >
  #   Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
-   - Predicted the Bitcoin Prices for the future 10 days of the Time series data.
-   - Applied Time Series Analysis techniques like ARIMA, SARIMA, GARCH and Residual Analysis to obtain MASE Table for accuracy.
-   - Used R to acurately forecast the future values along with plot.
+   - Analysed the best model for the Ozone layer thickness from 1972 to 2016. 
+   - Forecasted the future values for the next 5 years on the tradiational Quadratic Model. 
+   - Obtain suitable ARIMA models through stastical outputs like AIC, BIC, p-values and EACF plots in <mark>R</mark> 
+   
+ - layout: left 
+  name: Forecasting Fish Egg Deposition
+  job_title: Time Series Analysis
+  link: View Project
+ # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+ # quote: >
+ #   Short overview of the project (optional)
+  description: | # this will include new lines to allow paragraphs
+   - This project is an analysis of the best ARIMA models to forecast the Egg Deposition of the fish from 1981 to 1996
+   Used MASE accuracy score, AIC, BIC, and EACF to finalise models in <mark>R</mark> 
+   - Obtain suitable ARIMA models through stastical outputs like AIC, BIC, p-values and EACF plots in <mark>R</mark>
+   
+   
+- layout: left 
+  name: Forecasting Fish Egg Deposition
+  job_title: Time Series Analysis
+  link: View Project
+ # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+ # quote: >
+ #   Short overview of the project (optional)
+  description: | # this will include new lines to allow paragraphs
+   - Analysed the best model for the Ozone layer thickness from 1972 to 2016. 
+   - Forecasted the future values for the next 5 years on the tradiational Quadratic Model. 
+   - Obtain suitable ARIMA models through stastical outputs like AIC, BIC, p-values and EACF plots in <mark>R</mark> 
+  
+   
+ 
    
    
