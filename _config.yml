@@ -1,0 +1,92 @@
+# Site
+repository:  Tarun-S-Sarode/testing
+# Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+
+# Personal info
+name: Tarun.S.Sarode
+title: Data Analyst
+email: tarun.sarode@outlook.com
+# phone: Your phone number (optional)
+# cv   : "resume.pdf"
+# website: Your website (eg. https://google.com)(optional)
+
+
+# Social links
+#twitter_username: jekyllrb
+#github_username:  Tarun-S-Sarode
+#dribbble_username: jekyll
+#facebook_username: jekyll
+#flickr_username: jekyll
+#instagram_username: jekyll
+linkedin_username: tarun-s-sarode
+# email: tarun.sarode@outlook.com 3########################################3
+#xing_username: jekyll
+#pinterest_username: jekyll
+#youtube_username: jekyll
+#googleplus_username: +jekyll
+
+# About Section
+# about_title: About Me (Use this to override about section title)
+about_profile_image: images/IMG-20200109-WA0003 - 1-53e42072-a2cd-11eb-9940-c27ccc2331ef-98031ad8-a2cd-11eb-9940-c27ccc2331ef.jpg
+about_content: | # this will include new lines to allow paragraphs
+    Hi, 
+      ![brother](/testing/images/IMG_0072.jpg "brother") ####################################################3
+#  Write an awesome description about yourself here, this supports markdown, so you can add links and highlight things <mark>like this</mark>.
+#  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
+#    - [My Awesome Resume](https://moya10.github.io/awesome-cv/resume.pdf)
+#    - Tables
+#    - Links
+#    - Images
+     
+    
+# Education Section
+# education_title: Education #(Use this to override about education section title)
+
+# Experience Section
+# experience_title: Experience #(Use this to override about experience section title)
+
+# Projects Section
+# projects_title: Projects
+
+# Certifications Section
+# Certifications_title: Certifications
+
+# Volunteering Section
+# volunteering_title: Volunteering 
+
+# More Section
+# more_title: A Little More About Me #(Use this to override about more section title)
+more_content: | # this will include new lines to allow paragraphs
+  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+  
+  ![brother](/testing/images/IMG-20200109-WA0003%20-%201-53e42072-a2cd-11eb-9940-c27ccc2331ef-98031ad8-a2cd-11eb-9940-c27ccc2331ef.jpg "brother")
+  
+# Footer
+footer_show_references: true
+
+# Build settings
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+# remote_theme:  sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+
+sass:
+  sass_dir: _sass
+  style: compressed
+  
+plugins:
+ - jekyll-seo-tag
+ 
+exclude : [
+  "makefile",
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+  ]

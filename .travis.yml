@@ -1,0 +1,24 @@
+
+language: ruby
+
+cache: bundler 
+
+before_install: 
+  - gem update bundler
+  - wget https://github.com/jgm/pandoc/releases/download/1.15.2/pandoc-1.15.2-1-amd64.deb
+  - sudo dpkg -i pandoc-1.15.2-1-amd64.deb
+  - rm pandoc-1.15.2-1-amd64.deb
+  #- sudo apt-get -qq update && sudo apt-get install -y --no-install-recommends texlive-full
+install:
+  - bundle install
+  
+script:
+  - bundle exec jekyll build
+  - make
+  #- xelatex -interaction=nonstopmode -halt-on-error resume.tex
+  
+branches:
+  only:
+  - gh-pages
+
+sudo: false

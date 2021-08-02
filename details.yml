@@ -1,0 +1,58 @@
+---
+# Personal details
+name: Ραφαηλια Ασημακοπουλου
+position: Φοιτητρια
+address:
+- Πανεπιστήμιο Πατρας
+- Ελλάδα
+phone: '+30 694 038 8965'
+email: 'simple@example.com'
+# Insert URLs without http://
+homepage: 'github.com/moya10'
+github: moya10
+telegram: 
+
+
+# Sections
+
+intro:
+
+skills:
+- Τεχνολογίες λογισμικού
+- Προγραμματισμός πολυμέσων
+
+
+experience:
+- years: 2012–-
+  employer: Πανεπιστήμιο Πατρας
+  job: Φοιτητρια (2012--) 
+  city: Πατρα, Ελλάδα
+- years: 2012–-
+  employer: Πανεπιστήμιο Πατρας
+  job: Φοιτητρια (2012--) 
+  city: Πατρα, Ελλάδα
+
+
+education:
+- year: 2012
+  title: Msc Electrical and Computer Engineering
+  department: Electrical and Computer Engineering
+  institute: University of Patras
+  thesis: ''
+  supervisor: ''
+
+
+languages:
+- language: Ελληνικά
+  proficiency: Μητρική
+- language: Αγγλικά
+  proficiency: Μετρια
+
+# Settings
+mainfont: GFS Didot
+fontsize: 11pt
+lang: el-GR
+geometry: a4paper, left=35mm, right=35mm, top=25mm, bottom=25mm
+toc: true
+nocite: '@*'
+---
