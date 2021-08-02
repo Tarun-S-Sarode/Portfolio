@@ -29,6 +29,16 @@
         2. Socio Economic Variables.
         3. Fake and Genuine Bank Notes.
    - The analysis gives insight into the relation between the variables of the data sets by using multivariate techniques as Principal Component, Factor Analysis and Discriminant Analysis.
-   - The analysis was carried out using <mark>SAS</mark> fake asdfg
-
-
+   - The analysis was carried out using <mark>SAS</mark>
+   
+- layout: left 
+  name: Forecasting Bitcoin Prices
+  job_title: Forecasting
+  link: View Project
+ # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+ # quote: >
+ #   Short overview of the project (optional)
+  description: | # this will include new lines to allow paragraphs
+   - Predicted the Bitcoin Prices for the future 10 days of the Time series data.
+   - Applied Time Series Analysis techniques like ARIMA, SARIMA, GARCH and Residual Analysis to obtain MASE Table for accuracy.
+   - Used <mark>R</mark> to acurately forecast the future values along with plot.
