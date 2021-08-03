@@ -10,15 +10,15 @@
   #  Short institution or course description (optional)
   description: | # this will include new lines to allow paragraphs
    With data-driven decisions now a fundamental part of business operations, this program is structured with courses to be a business-ready problem solver.
-   - Data Wrangling
-   - Data Visualisation
-   - Applied Analytics
-   - Time Series Analysis
-   - Machine Learning
-   - Forecasting
-   - Multivariate Analysis
-   - System Dynamics
-   - QUestioneer and Research Design
+   - Data Wrangling.
+   - Data Visualisation.
+   - Applied Analytics.
+   - Time Series Analysis.
+   - Machine Learning.
+   - Forecasting.
+   - Multivariate Analysis.
+   - System Dynamics.
+   - QUestioneer and Research Design.
    
    
 - layout: left
