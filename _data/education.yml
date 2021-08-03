@@ -1,7 +1,7 @@
 # Education Template
 - layout: left
   #icon: /images/logo.png
-  name: <img src="images/logo.png" alt="RMIT" width="200" height="100" class="mb-0">
+  name: <img src="images/logo.png" alt="RMIT" width="90" height="85" class="mb-0">
                Royal Melbourne Institue of Technology
   dates: Feburary 2018 - December 2019
   qualification: Masters of Data Analytics
@@ -24,7 +24,7 @@
    
 - layout: left
   #icon: /images/logo.png
-  name:  <img src="images/JGI.png" alt="JGI" width="85" height="85" class="mb-0"> 
+  name:  <img src="images/JGI.png" alt="JGI" width="80" height="80" class="mb-0"> 
                  Jain University
   dates: April 2014 - June 2017
   qualification: Bachelors of Commerce
