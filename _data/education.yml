@@ -4,7 +4,7 @@
   name: <img src="images/rmit1.png" alt="RMIT" width="180" height="100" class="mb-0"> # Royal Melbourne Institue of Technology
   dates: Feburary 2018 - December 2019
   qualification: Masters of Data Analytics
-  link: ![View Testamur](/images/docs/RMIT Testamur.pdf "RMIT")
+  link: <a href="/images/docs/RMIT Testamur.pdf">View</a> # ![View Testamur](/images/docs/RMIT Testamur.pdf "RMIT")
   link_text: View Testamur 
   # quote: 
   #  Short institution or course description (optional)
