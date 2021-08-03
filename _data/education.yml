@@ -1,7 +1,7 @@
 # Education Template
 - layout: left
   #icon: /images/logo.png
-  name: <img src="images/rmit.png" alt="RMIT" width="90" height="85" class="mb-0">
+  name: <img src="images/rmit.png" alt="RMIT" width="130" height="95" class="mb-0">
                Royal Melbourne Institue of Technology
   dates: Feburary 2018 - December 2019
   qualification: Masters of Data Analytics
