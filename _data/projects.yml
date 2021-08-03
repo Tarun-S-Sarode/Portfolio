@@ -3,8 +3,8 @@
   name: Loan Credibility Prediction System.
   job_title: Machine Learning.
   # sub_title: Machine Learning.
-  link: #View Project (https://github.com/Tarun-S-Sarode/testing-1/blob/main/images/JGI.png)
-        <a href="https://github.com/Tarun-S-Sarode/testing-1/blob/main/images/JGI.png">View</a>
+  link: View Project #(https://github.com/Tarun-S-Sarode/testing-1/blob/main/images/JGI.png)
+        #<a href="https://github.com/Tarun-S-Sarode/testing-1/blob/main/images/JGI.png">View</a>
   # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   # quote: >
   #   Short overview of the project (optional)
@@ -15,6 +15,30 @@
      Hyperparameter tuning.
      Modelling (K-NN, Decision Tree, Gaussian Naive-Bayes)
    - Achieved an average model accuracy of 79% across all the models in <mark>Python</mark>(Jupyter, pandas, NumPy, sci-kit-learn).
+   
+- layout: left 
+  name: Drug Usage Questionnaire.
+  job_title: Research Design.
+  link: View Project
+ # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+ # quote: >
+ #   Short overview of the project (optional)
+  description: | # this will include new lines to allow paragraphs
+   - Prepared a Survey Questionnaire to collect data on the opinion of people on the drug usage.
+   - Populated data from survey and used statistical techniques(sampling, ANOVA, etc.) to draw inference from the data.
+   - Used <mark>SPSS</mark> of analysis.
+   
+- layout: left 
+  name: Dementia in Australia.
+  job_title: Visualisation.
+  link: View Project
+ # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+ # quote: >
+ #   Short overview of the project (optional)
+  description: | # this will include new lines to allow paragraphs
+   - A geographical visualisation that gives insight into who and where people have been affected by Dementia.
+   - Used <mark>R</mark> (ggplot2, tidyr, dplyr, broom, readr, ggmap)
+   - Conclusion was women are more prone to Dementia than men and the highest region being Western Australia.
    
 - layout: left
   name: juyvhgvkuyvj
@@ -56,17 +80,6 @@
    - Obtain suitable ARIMA models through statistical outputs like AIC, BIC, p-values and EACF plots in <mark>R</mark>
    
 - layout: left 
-  name: Forecasting Fish Egg Deposition.
-  job_title: Time Series Analysis.
-  link: View Project
- # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
- # quote: >
- #   Short overview of the project (optional)
-  description: | # this will include new lines to allow paragraphs
-   - This project is an analysis of the best ARIMA models to forecast the Egg Deposition of the fish from 1981 to 1996
-   - Used MASE accuracy score, AIC, BIC, and EACF to finalise models in <mark>R</mark> 
- 
-- layout: left 
   name: Analysis of Australias Financial Index.
   job_title: Stastical Analysis and Report.
   link: View Project
@@ -81,6 +94,17 @@
       3. People who have tertiary education had higher salaries.  
    - The analysis was carried out in <mark>SAS</mark>
    
+- layout: left 
+  name: Forecasting Fish Egg Deposition.
+  job_title: Time Series Analysis.
+  link: View Project
+ # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+ # quote: >
+ #   Short overview of the project (optional)
+  description: | # this will include new lines to allow paragraphs
+   - This project is an analysis of the best ARIMA models to forecast the Egg Deposition of the fish from 1981 to 1996
+   - Used MASE accuracy score, AIC, BIC, and EACF to finalise models in <mark>R</mark> 
+ 
 - layout: left 
   name: Production of Cereal Crops.
   job_title: Visualisation.
@@ -103,6 +127,7 @@
    - A geographical visualisation that gives insight into who and where people have been affected by Dementia.
    - Used <mark>R</mark> (ggplot2, tidyr, dplyr, broom, readr, ggmap)
    - Conclusion was women are more prone to Dementia than men and the highest region being Western Australia.
+
    
    [My Awesome Resume](https://moya10.github.io/awesome-cv/resume.pdf)
        [<img src="images/logo.png" alt="logo" width="150" height="200" class="mb-0">](https://moya10.github.io/awesome-cv/resume.pdf)
