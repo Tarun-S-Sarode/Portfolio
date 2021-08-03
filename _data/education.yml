@@ -1,12 +1,12 @@
 # Education Template
 - layout: left
   #icon: /images/logo.png
-  name: <p> <img src="images/RMIT.png" alt="logo" width="100" height="100" class="mb-0">
+  name: <p> <img src="images/RMIT.png" alt="RMIT" width="150" height="200" class="mb-0">
                Royal Melbourne Institue of Technology</p>
   dates: Feburary 2018 - December 2019
   qualification: Masters of Data Analytics
-  # link: nil
-  # link_text: View Testamur #############link is not after date it is comming after rmit. %%%%%%
+  link: "images/docs/RMIT Testamur.pdf"
+  link_text: View Testamur 
   # quote: >
   #  Short institution or course description (optional)
   description: | # this will include new lines to allow paragraphs
@@ -24,7 +24,7 @@
    
 - layout: left
   #icon: /images/logo.png
-  name:  <img src="images/JGI.png" alt="logo" width="100" height="100" class="mb-0"> Jain University
+  name:  <img src="images/JGI.png" alt="JGI" width="100" height="100" class="mb-0"> Jain University
   dates: April 2014 - June 2017
   qualification: Bachelors of Commerce
   # link: nil
@@ -32,4 +32,12 @@
   # quote: >
   #  Short institution or course description (optional)
   description: | # this will include new lines to allow paragraphs
-   
+   - Business Ethics and Regulations.
+   - Corporate Communication.
+   - Retail Management.
+   - Stock and Commodity Markets.
+   - Security Analysis and Portfolio Management.
+   - Principles of Event Management.
+   - Marketing.
+   - Cost Accounting.
+   - Financial Management.
