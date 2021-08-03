@@ -1,6 +1,6 @@
-# Project template
+# Project template   
 - layout: left
-  name: Loan Crediability Prediction System.
+  name: Loan Credibility Prediction System.
   job_title: Machine Learning.
   # sub_title: Machine Learning.
   link: View Project
@@ -8,16 +8,16 @@
   # quote: >
   #   Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
-   - This Machine learning project focuses on predicting the credibility of the customers or subjects for loanrepaymentby analysing differentfactorswhich determine the decission on whether to approve or reject the customer request.
+   - This Machine learning project focuses on predicting the credibility of the customers or subjects for loan repayment by analysing different factors which determine the decision on whether to approve or reject the customer request.
    - The modelling is performed using techniques which as: Encoding.
      Feature Selection and Ranking.
-     Hyper parameter tuning.
-     Modeling (K-NN, Decission Tree, Gaussian Navie-Bayes)
-   - Acheved an average model accuracy of 79% across all the models in <mark>Python</mark>(Jupyter, pandas, numpy, scikit-learn).
+     Hyperparameter tuning.
+     Modelling (K-NN, Decision Tree, Gaussian Naive-Bayes)
+   - Achieved an average model accuracy of 79% across all the models in <mark>Python</mark>(Jupyter, pandas, NumPy, sci-kit-learn).
    
 - layout: left
   name: juyvhgvkuyvj
-  job_title: Multiariate Analysis
+  job_title: Multivariate Analysis
   link: View Project
  # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
  # quote: >
@@ -27,7 +27,7 @@
         1. Chemical Components in Marijuana. 
         2. Socio Economic Variables.
         3. Fake and Genuine Bank Notes.
-   - The analysis gives insight into the relation between the variables of the data sets by using multivariate techniques as Principal Component, Factor Analysis and Discriminant Analysis.
+   - The analysis gives insight into the relationship between the variables of the data sets by using multivariate techniques like Principal Component, Factor Analysis and Discriminant Analysis.
    - The analysis was carried out using <mark>SAS</mark>
    
 - layout: left 
@@ -40,7 +40,7 @@
   description: | # this will include new lines to allow paragraphs
    - Predicted the Bitcoin Prices for the future 10 days of the Time series data.
    - Applied Time Series Analysis techniques like ARIMA, SARIMA, GARCH and Residual Analysis to obtain MASE Table for accuracy.
-   - Used <mark>R</mark> to acurately forecast the future values along with plot.
+   - Used <mark>R</mark> to accurately forecast the future values along with plot.
    
 - layout: left 
   name: Time Series Model Specification of Ozone Layer.
@@ -51,8 +51,8 @@
  #   Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
    - Analysed the best model for the Ozone layer thickness from 1972 to 2016. 
-   - Forecasted the future values for the next 5 years on the tradiational Quadratic Model. 
-   - Obtain suitable ARIMA models through stastical outputs like AIC, BIC, p-values and EACF plots in <mark>R</mark>
+   - Forecasted the future values for the next 5 years on the traditional Quadratic Model. 
+   - Obtain suitable ARIMA models through statistical outputs like AIC, BIC, p-values and EACF plots in <mark>R</mark>
    
 - layout: left 
   name: Forecasting Fish Egg Deposition.
@@ -73,27 +73,37 @@
  # quote: >
  #   Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
-   - This is a analysis of how adults manage their finances which is measured from the indicators such as Education, Savings, Borrowings, Expences, etc.
+   - This is an analysis of how adults manage their finances which are measured from the indicators such as Education, Savings, Borrowings, Expenses, etc.
    - The inferences from the analysis were.
-      - The people have the habit of saving when compared to borrowing money.
-      - People dropped out after secondary education when government assistance was provided.
-      - People who have tertairy education had higher salaries.  
+      1. People have the habit of saving when compared to borrowing money.
+      2. People dropped out after secondary education when government assistance was provided.
+      3. People who have tertiary education had higher salaries.  
    - The analysis was carried out in <mark>SAS</mark>
    
 - layout: left 
-  name: Analysis of Australias Financial Index.
-  job_title: Stastical Analysis and Report.
+  name: Production of Cereal Crops.
+  job_title: Visualisation.
   link: View Project
  # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
  # quote: >
  #   Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
-   - This is a analysis of how adults manage their finances which is measured from the indicators such as Education, Savings, Borrowings, Expences, etc.
-   - The inferences from the analysis were.
-      - The people have the habit of saving when compared to borrowing money.
-      - People dropped out after secondary education when government assistance was provided.
-      - People who have tertairy education had higher salaries.
-       [My Awesome Resume](https://moya10.github.io/awesome-cv/resume.pdf)
+   - This is a visualisation of cereal crops produced from 2002 to 2017.
+   - The main analysis was that even after introducing modern technology there is a decrease in the production of some crops.
+     
+- layout: left 
+  name: Dementia in Australia.
+  job_title: Visualisation.
+  link: View Project
+ # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+ # quote: >
+ #   Short overview of the project (optional)
+  description: | # this will include new lines to allow paragraphs
+   - A geographical visualisation that gives insight into who and where people have been affected by Dementia.
+   - Used <mark>R</mark> (ggplot2, tidyr, dplyr, broom, readr, ggmap)
+   - Conclusion was women are more prone to Dementia than men and the highest region being Western Australia.
+   
+   [My Awesome Resume](https://moya10.github.io/awesome-cv/resume.pdf)
        [<img src="images/logo.png" alt="logo" width="150" height="200" class="mb-0">](https://moya10.github.io/awesome-cv/resume.pdf)
-   - the analysis was carried out in <mark>SAS</mark>
+   
 
