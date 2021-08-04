@@ -55,7 +55,7 @@ about_content: | # this will include new lines to allow paragraphs
 #     lksjhdnlksnvlskdnvlskdvnskl
 
 # more content sction
-# more_title: A Little More About Me #(Use this to override about more section title)
+# more_title1: A Little More About Me #(Use this to override about more section title)
 more_content1: | # this will include new lines to allow paragraphs
   
   Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
