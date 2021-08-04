@@ -1,7 +1,7 @@
 - layout: left
   #name: Institution name
   #dates: Date Range (eg.- 2019)
-  qualification: [SAS](https://github.com/Tarun-S-Sarode/testing-1/blob/main/images/docs/Stock%20Market%20Institue..jpg)
+  qualification: [SAS](/images/docs/Stock Market Institue..jpg)
   #quote: >
   #  Short institution or course description (optional)
   description: | # this will include new lines to allow paragraphs
