@@ -1,18 +1,1 @@
-#layout: more 
-layout: list
- content:
-   - layout: more
-     title: Harvard University
-     caption: 2010 - 2013
-     sub_title: BSc Computer Science
-     quote: >
-       Established 
-# since the layout is 'more', the below lines will not work as it is from the 'left' layout. 
-  #name: Institution name
-  #dates: Date Range (eg.- 2019)
-  #qualification: # [SAS](/images/docs/SMI.jpg)
-  #quote: >
-  #  Short institution or course description (optional)
-  #description: | # this will include new lines to allow paragraphs
-  #  Description of qualification
-  
+
