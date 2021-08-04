@@ -50,9 +50,9 @@ about_content: | # this will include new lines to allow paragraphs
 # projects_title: Projects
 
 # Certifications Section
-Certifications_title: pertifications
-Certification_content: |
- lksjhdnlksnvlskdnvlskdvnskl
+# Certifications_title: pertifications
+# Certification_content: |
+#     lksjhdnlksnvlskdnvlskdvnskl
 
 # Volunteering Section
 # volunteering_title: Volunteering 
