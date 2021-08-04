@@ -1,8 +1,8 @@
-- layout: trial2
+- layout: left
   #  content: |
   #  kaubskjclkcnlkcjhjgkj
  
-  content: | # this will include new lines to allow paragraphs
+   # this will include new lines to allow paragraphs
     [Fundamentals of Stock Market](/images/doc/SMI.png)
     With data-driven decisions now a fundamental part of business operations, this program is structured with courses to be a business-ready problem solver.
     - <img src="images/rmit1.png" alt="RMIT" width="180" height="100" class="mb-0"> -  Data Wrangling.
