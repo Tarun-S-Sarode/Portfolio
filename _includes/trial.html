@@ -1,9 +1,40 @@
- <div class="row clearfix">
+<!--
+<div class="row clearfix">
   <div class="col-md-12">
     {{ include.item.content | strip | markdownify }}
   </div>
 </div>
+-->
+  
+{% for item in include.content %}
+  <div class="row clearfix layout layout-{{include.item.layout | default: 'left'}}">
+    <div class="col-xs-12 col-sm-4 col-md-3 col-print-12 details">
+      <h4>{{ include.item.title }}</h4>
+      {%- if include.item.sub_title -%}<p><b>{{ include.item.sub_title }}</b></p>{%- endif -%}
+      {%- if include.item.caption -%}<p>{{ include.item.caption }}</p>{%- endif -%}
 
+      {%- if item.link -%}
+        {% include a.html href=item.link class="link" %}
+          {%- if include.item.link_text -%}{{ include.item.link_text }}{%- else -%}{{ include.item.link }}{%- endif -%}
+        </a>
+      {%- endif -%}
+
+      <p class="no-print aditional-links">
+        {% for link in include.item.additional_links %}
+          {% include a.html href=link.url class="" %}
+            <i class="{{ link.icon }}" title="{{ link.title | escape }}"></i>
+          </a>
+        {% endfor %}
+      </p>
+    </div>
+    <div class="col-xs-12 col-sm-8 col-md-9 col-print-12 content">
+      {%- if include.item.quote -%}
+        <p class="quote">{{ include.item.quote }}</p>
+      {%- endif -%}
+      {{ include.item.description | strip | markdownify }}
+    </div>
+  </div>
+{% endfor %}
 
 <!-- 
 <div class="container certifications-container">
