@@ -10,7 +10,7 @@
   # quote: >
   #   Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
-   - This Machine learning project focuses on predicting the credibility of the customers or subjects for loan repayment by analysing different factors which determine the decision on whether to approve or reject the customer request.
+   - From Machine learning project focuses on predicting the credibility of the customers or subjects for loan repayment by analysing different factors which determine the decision on whether to approve or reject the customer request.
    - The modelling is performed using techniques which as: Encoding.
      Feature Selection and Ranking.
      Hyperparameter tuning.
