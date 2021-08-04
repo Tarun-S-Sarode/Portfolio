@@ -6,8 +6,23 @@
     {%- if include.item.qualification -%}<p><b>{{ include.item.qualification }}</b></p>{%- endif -%}
     {%- if include.item.dates -%}<p>{{ include.item.dates }}</p>{%- endif -%}
     {%- if include.item.link -%}
+        {% include a.html href=include.item.link class="link" %}
+          {%- if include.item.link_text -%}{{ include.item.link_text }}{%- else -%}{{ include.item.link }}{%- endif -%}
+        </a>
+      {%- endif -%}
+    
+    
+    <!--
+    {%- if include.item.link -%}
       {% include a.html href=include.item.link class="link" %}{{ include.item.link }}</a>
     {%- endif -%}
+  
+  
+   {%- if item.link -%}
+        {% include a.html href=item.link class="link" %}
+          {%- if item.link_text -%}{{ item.link_text }}{%- else -%}{{ item.link }}{%- endif -%}
+        </a>
+      {%- endif -%} -->
   
     {% for job in include.item.jobs %}
       <p><b>{{ job.title }}</b></p>
