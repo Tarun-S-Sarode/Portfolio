@@ -5,24 +5,27 @@
     {%- if include.item.job_title -%}<p><b>{{ include.item.job_title }}</b></p>{%- endif -%}
     {%- if include.item.qualification -%}<p><b>{{ include.item.qualification }}</b></p>{%- endif -%}
     {%- if include.item.dates -%}<p>{{ include.item.dates }}</p>{%- endif -%}
+    <!-- moved the below lines at last as i wanted link to appear last which was between job_title and qualification and tweaked the below lines to get the link_text -->
     {%- if include.item.link -%}
         {% include a.html href=include.item.link class="link" %}
           {%- if include.item.link_text -%}{{ include.item.link_text }}{%- else -%}{{ include.item.link }}{%- endif -%}
         </a>
       {%- endif -%}
     
-    
-    <!--
+<!-- 
+ For getting the link text.
     {%- if include.item.link -%}
       {% include a.html href=include.item.link class="link" %}{{ include.item.link }}</a>
     {%- endif -%}
-  
-  
+   the above lines were default 
+   
+   the below lines were copied from - https://github.com/sproogen/modern-resume-theme/blob/master/_includes/section-list.html
    {%- if item.link -%}
         {% include a.html href=item.link class="link" %}
           {%- if item.link_text -%}{{ item.link_text }}{%- else -%}{{ item.link }}{%- endif -%}
         </a>
-      {%- endif -%} -->
+      {%- endif -%} 
+-->
   
     {% for job in include.item.jobs %}
       <p><b>{{ job.title }}</b></p>
