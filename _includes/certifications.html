@@ -6,11 +6,11 @@
   {% endfor %}
  --> 
  
-<div class="container more-container">
-  <h3>{{ site.more_title | default: "A Little More About Me" }}</h3>
+<div class="container certifications-container">
+  <h3>{{ site.certifications_title | default: "certifications" }}</h3>
   <div class="row clearfix">
     <div class="col-md-12">
-      {{ site.more_content | strip | markdownify }}
+      {{ site.certifications_content | strip | markdownify }}
     </div>
   </div>
 </div>
