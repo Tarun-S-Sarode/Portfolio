@@ -1,5 +1,5 @@
-- layout: more 
-
+layout: more 
+#layout: list
 # since the layout is 'more', the below lines will not work as it is from the 'left' layout. 
   #name: Institution name
   #dates: Date Range (eg.- 2019)
