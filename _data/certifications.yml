@@ -1,5 +1,12 @@
-layout: more 
-#layout: list
+#layout: more 
+layout: list
+ content:
+   - layout: more
+     title: Harvard University
+     caption: 2010 - 2013
+     sub_title: BSc Computer Science
+     quote: >
+       Established 
 # since the layout is 'more', the below lines will not work as it is from the 'left' layout. 
   #name: Institution name
   #dates: Date Range (eg.- 2019)
@@ -9,5 +16,3 @@ layout: more
   #description: | # this will include new lines to allow paragraphs
   #  Description of qualification
   
-This is a short discription
- - [my certificate](/images/docs/SMI.png)
