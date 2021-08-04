@@ -57,7 +57,7 @@ about_content: | # this will include new lines to allow paragraphs
 # more content sction
 more_title1: A Little More About Me #(Use this to override about more section title)
 more_content1: | # this will include new lines to allow paragraphs
- - [SMI](/more/docs/SMI.jpg)
+ - [SMI](/images/docs/SMI.jpg)
 
 # Volunteering Section
 # volunteering_title: Volunteering 
