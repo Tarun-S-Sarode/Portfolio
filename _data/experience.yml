@@ -1,10 +1,10 @@
 # Experience template
 - layout: left
-  company: <img src="images/cogstate.png" alt="Cogstate" width="170" height="150">  
+  company: <img src="images/cogstate.png" alt="Cogstate" width="120" height="120">  
   # image: /assets/img/thumb.png # is not working should check how to add company icon
   job_title: Research Data Analyst
   dates: July  - November 2019
-  link: Link to company (optional)
+  #link: Link to company (optional)
   quote: >
    Cogstate is a cognitive science company which provides computerized cognitive assessment for clinical trials, academic research, healthcare and brain injury applications in Australia and Internationally.
   description: | # this will include new lines to allow paragraphs
