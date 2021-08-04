@@ -8,6 +8,6 @@ layout: more
   #  Short institution or course description (optional)
   #description: | # this will include new lines to allow paragraphs
   #  Description of qualification
-content: | 
- This is a short discription
+  
+This is a short discription
  - [my certificate](/images/docs/SMI.png)
