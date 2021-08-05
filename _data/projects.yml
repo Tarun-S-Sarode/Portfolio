@@ -31,14 +31,14 @@
  # quote: >
  #   Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
-   - Prepared a Survey Questionnaire to collect data on the opinion of people on the drug usage.
-   - Populated data from survey and used statistical techniques(sampling, ANOVA, etc.) to draw inference from the data.
+   - Prepared a Survey Questionnaire to collect data on the opinion of people on drug usage.
+   - Populated data from the survey and used statistical techniques(sampling, ANOVA, etc.) to draw inference from the data.
    - Used <mark>SPSS</mark> of analysis.
    
 - layout: left 
   name: Dementia in Australia.
   job_title: Visualisation.
-  link: https://drive.google.com/file/d/11zXtqrYuJjeLYWq0ZsKtaW3d2IJ8edQm/view?usp=sharing
+  link: http://rpubs.com/Tarun_S_Sarode/795921
   link_text: View Project
  # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
  # quote: >
@@ -80,13 +80,13 @@
 - layout: left 
   name: NBA Game Data Wrangling.
   job_title: Data Wrangling.
-  link: https://drive.google.com/file/d/1SPOOG-yWXmReuQD4S-U2vBTOK-fi7EBE/view?usp=sharing
+  link: http://rpubs.com/Tarun_S_Sarode/796202
   link_text: View Project
  # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
  # quote: >
  #   Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
-   - This project is a exploration and cleaning the NBA Data set to ensure the data is free from any inconsistencies for analysis.
+   - This project is an exploration and cleaning of the NBA Data set to ensure the data is free from any inconsistencies for analysis.
    - Appropriate Data Wrangling techniques were applied for Missing Values, concatenating, Outliers, Inconsistent Text, Distribution, etc.
    - Used <mark>R</mark> 
    
