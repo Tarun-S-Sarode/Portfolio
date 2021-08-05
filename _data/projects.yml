@@ -38,7 +38,7 @@
 - layout: left 
   name: Dementia in Australia.
   job_title: Visualisation.
-  link: View Project
+  link: https://drive.google.com/file/d/11zXtqrYuJjeLYWq0ZsKtaW3d2IJ8edQm/view?usp=sharing
   link_text: View Project
  # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
  # quote: >
@@ -51,7 +51,7 @@
 - layout: left
   name: Multivariate Analysis
  # job_title: Multivariate Analysis
-  link: View Project
+  link: https://drive.google.com/file/d/1bVj62y_oC4LqsTLAv9NfyBQ1Bz4rhpRb/view?usp=sharing
   link_text: View Project
  # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
  # quote: >
@@ -67,7 +67,7 @@
 - layout: left 
   name: Forecasting Bitcoin Prices.
   job_title: Forecasting
-  link: View Project
+  link: https://drive.google.com/file/d/18fLJ29n_h76KQVje3gZjJACmJt1azMiq/view?usp=sharing
   link_text: View Project
  # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
  # quote: >
@@ -80,7 +80,7 @@
 - layout: left 
   name: NBA Game Data Wrangling.
   job_title: Data Wrangling.
-  link: View Project
+  link: https://drive.google.com/file/d/1SPOOG-yWXmReuQD4S-U2vBTOK-fi7EBE/view?usp=sharing
   link_text: View Project
  # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
  # quote: >
@@ -93,7 +93,7 @@
 - layout: left 
   name: Time Series Model Specification of Ozone Layer.
   job_title: Time Series Analysis.
-  link: View Project
+  link: http://rpubs.com/Tarun_S_Sarode/795651
   link_text: View Project
  # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
  # quote: >
@@ -106,7 +106,7 @@
 - layout: left 
   name: Analysis of Australias Financial Index.
   job_title: Stastical Analysis and Report.
-  link: View Project
+  link: https://drive.google.com/file/d/1mRQZt2OxcjpJddXJH1LGRSy9yL9p0oOF/view?usp=sharing
   link_text: View Project
  # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
  # quote: >
@@ -122,7 +122,7 @@
 - layout: left 
   name: Forecasting Fish Egg Deposition.
   job_title: Time Series Analysis.
-  link: View Project
+  link: https://drive.google.com/file/d/1KfPtYwrCbY871L-cS14HEUBSoPw3dgWD/view?usp=sharing
   link_text: View Project
  # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
  # quote: >
@@ -134,7 +134,7 @@
 - layout: left 
   name: Production of Cereal Crops.
   job_title: Visualisation.
-  link: View Project
+  link: https://drive.google.com/file/d/1p6IX4fA1X7xVAS51LmBqjGfYrACzTqm4/view?usp=sharing
   link_text: View Project
  # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
  # quote: >
@@ -146,7 +146,7 @@
 
 
    
-   [My Awesome Resume](https://moya10.github.io/awesome-cv/resume.pdf)
-       [<img src="images/logo.png" alt="logo" width="150" height="200" class="mb-0">](https://moya10.github.io/awesome-cv/resume.pdf)
+  # [My Awesome Resume](https://moya10.github.io/awesome-cv/resume.pdf)
+  #    [<img src="images/logo.png" alt="logo" width="150" height="200" class="mb-0">](https://moya10.github.io/awesome-cv/resume.pdf)
    
 
