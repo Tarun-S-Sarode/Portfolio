@@ -11,6 +11,11 @@
           {%- if include.item.link_text -%}{{ include.item.link_text }}{%- else -%}{{ include.item.link }}{%- endif -%}
         </a>
       {%- endif -%}
+    {%- if include.item.link1 -%}
+        {% include a.html href=include.item.link1 class="link" %}
+          {%- if include.item.link_text1 -%}{{ include.item.link_text1 }}{%- else -%}{{ include.item.link1 }}{%- endif -%}
+        </a>
+      {%- endif -%}
     
 <!-- 
  For getting the link text.
