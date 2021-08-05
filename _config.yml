@@ -53,8 +53,8 @@ about_content: | # this will include new lines to allow paragraphs
 # more content sction
 more_title1: Certifications #(Use this to override about more section title)
 more_content1: | # this will include new lines to allow paragraphs
- * [<img src="images/logo.png" alt="logo" width="150" height="200" class="mb-0">](https://moya10.github.io/awesome-cv/resume.pdf)[Microsoft Office Specialist: Excel](https://www.credly.com/badges/29c0f7e0-b254-4603-93fe-5b19fbd52dc2/public_url)- Microsoft
- * [Predictive Modelling Using Logistic Regression](https://drive.google.com/file/d/1dBwPwcGgsXEX0MCtkvQnhDJwWK8WvBq4/view?usp=sharing)
+ * [<img src="images/MS Office Specialist.png" alt="Badge" width="80" height="80" class="mb-0">](https://www.credly.com/badges/29c0f7e0-b254-4603-93fe-5b19fbd52dc2/public_url)[Microsoft Office Specialist: Excel]()- Microsoft
+ * [<img src="images/PMLR.png" alt="Badge" width="80" height="80" class="mb-0">](https://www.credly.com/badges/f8ebf81f-e661-4bce-88f3-a7fe991d2cec/public_url)[Predictive Modelling Using Logistic Regression](https://drive.google.com/file/d/1dBwPwcGgsXEX0MCtkvQnhDJwWK8WvBq4/view?usp=sharing)
  * [Microsoft Office Specialist](/Portfolio/images/docs/SMI.jpg)
  * [Microsoft Office Specialist](/Portfolio/images/docs/SMI.jpg)
  * [Microsoft Office Specialist](/Portfolio/images/docs/SMI.jpg)
