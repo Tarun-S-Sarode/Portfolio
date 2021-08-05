@@ -49,11 +49,6 @@ about_content: | # this will include new lines to allow paragraphs
 # Projects Section
 # projects_title: Projects
 
-# Certifications Section
-# Certifications_title: pertifications
-# Certifications_content: |
-#     lksjhdnlksnvlskdnvlskdvnskl
-
 # more content sction
 more_title1: A Little More About Me #(Use this to override about more section title)
 more_content1: | # this will include new lines to allow paragraphs
