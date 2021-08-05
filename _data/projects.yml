@@ -3,14 +3,14 @@
   name: Loan Credibility Prediction System.
   job_title: Machine Learning.
   # sub_title: Machine Learning.
-  link: https://github.com/Tarun-S-Sarode/testing-1/blob/main/images/docs/Dv-assignment-2-r-mark.pdf
+  link: https://github.com/Tarun-S-Sarode/MachineLearning-Project/blob/403d379e8d944f81b2f0280acc306e623f0abc1e/Machine%20Learning%20-%20Predicting%20Loan%20Repayment%20(Phase%201).ipynb
         #<a href="https://github.com/Tarun-S-Sarode/testing-1/blob/main/images/JGI.png">View</a>
   # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-  link_text: lkuguikgoib
-  link1: https://github.com/Tarun-S-Sarode/testing-1/blob/main/images/docs/SMI.jpg
+  link_text: Part1,
+  link1: https://github.com/Tarun-S-Sarode/MachineLearning-Project/blob/403d379e8d944f81b2f0280acc306e623f0abc1e/Machine%20Learning%20-%20Predicting%20Loan%20repayment%20(Phase%202).ipynb
         #<a href="https://github.com/Tarun-S-Sarode/testing-1/blob/main/images/JGI.png">View</a>
   # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-  link_text1: snic
+  link_text1: Part2
   # quote: >
   #   Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
@@ -25,7 +25,8 @@
 - layout: left 
   name: Drug Usage Questionnaire.
   job_title: Research Design.
-  link: View Project
+  link: https://drive.google.com/file/d/1ynoE_3q0WCnJL2nGeN2wtYNGVY4ogV_l/view?usp=sharing
+  link_text: View Project
  # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
  # quote: >
  #   Short overview of the project (optional)
@@ -38,6 +39,7 @@
   name: Dementia in Australia.
   job_title: Visualisation.
   link: View Project
+  link_text: View Project
  # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
  # quote: >
  #   Short overview of the project (optional)
@@ -50,6 +52,7 @@
   name: Multivariate Analysis
  # job_title: Multivariate Analysis
   link: View Project
+  link_text: View Project
  # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
  # quote: >
  #   Short overview of the project (optional)
@@ -65,6 +68,7 @@
   name: Forecasting Bitcoin Prices.
   job_title: Forecasting
   link: View Project
+  link_text: View Project
  # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
  # quote: >
  #   Short overview of the project (optional)
@@ -77,6 +81,7 @@
   name: NBA Game Data Wrangling.
   job_title: Data Wrangling.
   link: View Project
+  link_text: View Project
  # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
  # quote: >
  #   Short overview of the project (optional)
@@ -89,6 +94,7 @@
   name: Time Series Model Specification of Ozone Layer.
   job_title: Time Series Analysis.
   link: View Project
+  link_text: View Project
  # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
  # quote: >
  #   Short overview of the project (optional)
@@ -101,6 +107,7 @@
   name: Analysis of Australias Financial Index.
   job_title: Stastical Analysis and Report.
   link: View Project
+  link_text: View Project
  # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
  # quote: >
  #   Short overview of the project (optional)
@@ -116,6 +123,7 @@
   name: Forecasting Fish Egg Deposition.
   job_title: Time Series Analysis.
   link: View Project
+  link_text: View Project
  # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
  # quote: >
  #   Short overview of the project (optional)
@@ -127,6 +135,7 @@
   name: Production of Cereal Crops.
   job_title: Visualisation.
   link: View Project
+  link_text: View Project
  # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
  # quote: >
  #   Short overview of the project (optional)
