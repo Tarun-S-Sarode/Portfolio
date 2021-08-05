@@ -7,6 +7,10 @@
         #<a href="https://github.com/Tarun-S-Sarode/testing-1/blob/main/images/JGI.png">View</a>
   # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   link_text: lkuguikgoib
+  link: https://github.com/Tarun-S-Sarode/testing-1/blob/main/images/docs/Dv-assignment-2-r-mark.pdf
+        #<a href="https://github.com/Tarun-S-Sarode/testing-1/blob/main/images/JGI.png">View</a>
+  # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  link_text: lkuguikgoib
   # quote: >
   #   Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
