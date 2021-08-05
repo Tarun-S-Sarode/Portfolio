@@ -12,6 +12,7 @@ email: tarun.sarode@outlook.com
 # website: Your website (eg. https://google.com)(optional)
 
 
+
 # Social links
 #twitter_username: jekyllrb
 #github_username:  Tarun-S-Sarode
@@ -50,10 +51,17 @@ about_content: | # this will include new lines to allow paragraphs
 # projects_title: Projects
 
 # more content sction
-more_title1: A Little More About Me #(Use this to override about more section title)
+more_title1: Certifications #(Use this to override about more section title)
 more_content1: | # this will include new lines to allow paragraphs
- * [SMI](/Portfolio/images/docs/SMI.jpg)
-
+ * [<img src="images/logo.png" alt="logo" width="150" height="200" class="mb-0">](https://moya10.github.io/awesome-cv/resume.pdf)[Microsoft Office Specialist: Excel](https://www.credly.com/badges/29c0f7e0-b254-4603-93fe-5b19fbd52dc2/public_url)- Microsoft
+ * [Predictive Modelling Using Logistic Regression](https://drive.google.com/file/d/1dBwPwcGgsXEX0MCtkvQnhDJwWK8WvBq4/view?usp=sharing)
+ * [Microsoft Office Specialist](/Portfolio/images/docs/SMI.jpg)
+ * [Microsoft Office Specialist](/Portfolio/images/docs/SMI.jpg)
+ * [Microsoft Office Specialist](/Portfolio/images/docs/SMI.jpg)
+ * [Microsoft Office Specialist](/Portfolio/images/docs/SMI.jpg)
+ * [Microsoft Office Specialist](/Portfolio/images/docs/SMI.jpg)
+ * [Microsoft Office Specialist](/Portfolio/images/docs/SMI.jpg)
+ * [Microsoft Office Specialist](/Portfolio/images/docs/SMI.jpg)
 
 # Volunteering Section
 # volunteering_title: Volunteering 
