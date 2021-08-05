@@ -7,18 +7,19 @@
         #<a href="https://github.com/Tarun-S-Sarode/testing-1/blob/main/images/JGI.png">View</a>
   # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   link_text: lkuguikgoib
-  link: https://github.com/Tarun-S-Sarode/testing-1/blob/main/images/docs/SMI.jpg
+  link1: https://github.com/Tarun-S-Sarode/testing-1/blob/main/images/docs/SMI.jpg
         #<a href="https://github.com/Tarun-S-Sarode/testing-1/blob/main/images/JGI.png">View</a>
   # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-  link_text: snic
+  link_text1: snic
   # quote: >
   #   Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
    - This Machine learning project focuses on predicting the credibility of the customers or subjects for loan repayment by analysing different factors which determine the decision on whether to approve or reject the customer request.
-   - The modelling is performed using techniques which as: Encoding.
-     Feature Selection and Ranking.
-     Hyperparameter tuning.
-     Modelling (K-NN, Decision Tree, Gaussian Naive-Bayes)
+   - The modelling is performed using techniques which as: 
+      1. Encoding.
+      2. Feature Selection and Ranking.
+      3. Hyperparameter tuning.
+      4. Modelling (K-NN, Decision Tree, Gaussian Naive-Bayes).
    - Achieved an average model accuracy of 79% across all the models in <mark>Python</mark>(Jupyter, pandas, NumPy, sci-kit-learn).
    
 - layout: left 
