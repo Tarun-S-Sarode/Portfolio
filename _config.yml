@@ -96,8 +96,11 @@ more_content1: | # this will include new lines to allow paragraphs
 more_title: Contact Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
      I would love to hear of any opportunities or leads you have for me or just feel free to get in touch with me through Linkedin or reach out to me on my Email.
-     
-linkedin_username: tarun-s-sarode
+ 
+ 
+ 
+<link rel="shortcut icon" type="image/x-icon" href="{ linkedin_username | tarun-s-sarode }}"> 
+
   
 # Footer
 footer_show_references: true
