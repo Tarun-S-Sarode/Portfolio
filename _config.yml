@@ -7,7 +7,7 @@ repository:  Tarun-S-Sarode/Portfolio
 name: Tarun.S.Sarode
 title: Data Analyst
 email: tarun.sarode@outlook.com
-# phone: Your phone number (optional)
+# phone: +61 458-728-574 (optional)
 # cv   : "resume.pdf"
 # website: Your website (eg. https://google.com)(optional)
 
@@ -58,12 +58,12 @@ more_content1: | # this will include new lines to allow paragraphs
   [<img src="images/PMLR sq.png" alt="Badge" width="180" height="210">](https://www.credly.com/badges/f8ebf81f-e661-4bce-88f3-a7fe991d2cec/public_url)[Predictive Modelling with Linear Regression](https://drive.google.com/file/d/1dBwPwcGgsXEX0MCtkvQnhDJwWK8WvBq4/view?usp=sharing)
   <p></p>
   [<img src="images/RMITsas sq.png" alt="Badge" width="180" height="210">](https://www.credly.com/badges/7b2eafe8-f780-4005-9baf-dffcfdf38ac5/public_url)[Academic Specialisation in Advanced Analytics]()
-  <p></p> 
-  <p></p>
-  <p></p>
-  <p></p>
-  * [Stocks Fundamental and Technical Analysis](https://drive.google.com/file/d/1QaSpz2YxCasy6qBRa26F1X_hv0gojNds/view?usp=sharing)
-  <p></p>
+  <p> </p> 
+  <p> </p>
+  <p> </p>
+  <p> </p>
+  * [Fundamental  Analysis and Technical Analysis of Stock Market](https://drive.google.com/file/d/1QaSpz2YxCasy6qBRa26F1X_hv0gojNds/view?usp=sharing)
+  <p> </p>
 #  <div data-iframe-width="200" data-iframe-height="270" data-share-badge-id="7b2eafe8-f780-4005-9baf-dffcfdf38ac5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 #  <div data-iframe-width="200" data-iframe-height="270" data-share-badge-id="f8ebf81f-e661-4bce-88f3-a7fe991d2cec" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
   
@@ -90,12 +90,9 @@ more_content1: | # this will include new lines to allow paragraphs
 # volunteering_title: Volunteering 
 
 # More Section
-# more_title: A Little More About Me #(Use this to override about more section title)
+more_title: Contact Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
-  dfnjgxnghng
-  ![brother](/Portfolio/images/IMG-20200109-WA0003%20-%201-53e42072-a2cd-11eb-9940-c27ccc2331ef-98031ad8-a2cd-11eb-9940-c27ccc2331ef.jpg "brother")
+  
   
 # Footer
 footer_show_references: true
