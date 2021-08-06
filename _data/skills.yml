@@ -1,7 +1,7 @@
 # Skills Template
  
 - layout: skills_left
-  name: Tools
+  name: Analysis Tools
   # dates: Feburary 2018 - December 2019
   # qualification: Masters of Data Analytics
   # link: https://drive.google.com/file/d/1FVTAc1JGHtuqE2Ud10NTJvH65o9NlD4s/view?usp=sharing
@@ -16,4 +16,20 @@
      * SAS (SAS Studio)
      * SQL
      * SPSS
+     
+- layout: skills_left
+  name: Key Analytical Skills
+  # dates: Feburary 2018 - December 2019
+  # qualification: Masters of Data Analytics
+  # link: https://drive.google.com/file/d/1FVTAc1JGHtuqE2Ud10NTJvH65o9NlD4s/view?usp=sharing
+  # <a href="/images/docs/RMIT Testamur.pdf">View</a> # ![View Testamur](/images/docs/RMIT Testamur.pdf "RMIT")
+  # link_text: View Testamur 
+  # quote: 
+  #  Short institution or course description (optional)
+  description: | # this will include new lines to allow paragraphs
+     * Excellent in Data Cleaning, Data Wrangling and Data Transformation techniques.
+     * Specialised in Time Series Analysis and Forecasting.
+     * Adept in Stastistical Analysis.
+     * Proficient in Visualising Interactive Data Dashboards. 
+     * Profound in Supervised and Unsupervised Machine Learning.
      
