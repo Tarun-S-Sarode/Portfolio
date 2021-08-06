@@ -81,15 +81,15 @@ l<div class="container header_down-contianer">
         {%- endif -%}
          {%- if site.email_username -%}
           <li>
-            <a target="_blank" href="mailto:{{ site.email_username| escape }}" class="button button--sacnite button--round-l">
-              <i class="fa fa-envelop" title="Email link"></i>
+            <a target="_blank" href="mailto:{{ site.email| cgi_escape | escape }}" class="button button--sacnite button--round-l">
+              <i class="fab fa-envelop" title="Email link"></i>
             </a>
           </li>
         {%- endif -%}
         {%- if site.phone_username -%}
           <li>
-            <a target="_blank" href="{{ site.phone_username| escape }}" class="button button--sacnite button--round-l">
-              <i class="fa fa-phone" title="Contact"></i>
+            <a target="_blank" href="{{ site.phone| cgi_escape | escape }}" class="button button--sacnite button--round-l">
+              <i class="fab fa-phone" title="Contact"></i>
             </a>
           </li>
         {%- endif -%}
