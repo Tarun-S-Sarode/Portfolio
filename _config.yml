@@ -21,7 +21,7 @@ phone: +61 458-728-574
 #flickr_username: jekyll
 #instagram_username: jekyll
 linkedin_username: tarun-s-sarode
-email: tarun.sarode@outlook.com 3########################################3
+email: tarun.sarode@outlook.com
 #xing_username: jekyll
 #pinterest_username: jekyll
 #youtube_username: jekyll
@@ -93,13 +93,36 @@ more_content1: | # this will include new lines to allow paragraphs
 # volunteering_title: Volunteering 
 
 # More Section
-more_title: Contact Me #(Use this to override about more section title)
+more_title: Contact Me. #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
      I would love to hear of any opportunities or leads you have for me or just feel free to get in touch with me through Linkedin or reach out to me on my Email.
  
  
  
-# <link rel="shortcut icon" type="image/x-icon" href="{ linkedin_username | tarun-s-sarode }}"> 
+# Personal info
+# name: Tarun.S.Sarode
+# title: Data Analyst
+# email: tarun.sarode@outlook.com
+# phone: +61 458-728-574
+# cv   : "resume.pdf"
+# website: Your website (eg. https://google.com)(optional)
+
+
+
+# Social links
+#twitter_username: jekyllrb
+#github_username:  Tarun-S-Sarode
+#dribbble_username: jekyll
+#facebook_username: jekyll
+#flickr_username: jekyll
+#instagram_username: jekyll
+linkedin_username: tarun-s-sarode
+email: tarun.sarode@outlook.com
+#xing_username: jekyll
+#pinterest_username: jekyll
+#youtube_username: jekyll
+#googleplus_username: +jekyll
+
 
   
 # Footer
