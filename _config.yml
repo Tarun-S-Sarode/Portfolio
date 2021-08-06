@@ -31,7 +31,8 @@ linkedin_username: tarun-s-sarode
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/IMG-20200109-WA0003 - 1-53e42072-a2cd-11eb-9940-c27ccc2331ef-98031ad8-a2cd-11eb-9940-c27ccc2331ef.jpg
 about_content: | # this will include new lines to allow paragraphs
-    Hi, 
+    Hi, I'm  Tarun, I like to work with Data and have been doing it since last 3 years. I am a Data Science Graduate and I see myself in helping 
+    companies in analysing and playing a crutial role in uncovering insight to solve problems and desire to excel in my career.  
 #  Write an awesome description about yourself here, this supports markdown, so you can add links and highlight things <mark>like this</mark>.
 #  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
 #    - [My Awesome Resume](https://moya10.github.io/awesome-cv/resume.pdf)
@@ -94,7 +95,9 @@ more_content1: | # this will include new lines to allow paragraphs
 # More Section
 more_title: Contact Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  
+     I would love to hear of any opportunities or leads you have for me or just feel free to get in touch with me through Linkedin or reach out to me on my Email
+     
+linkedin_username: tarun-s-sarode
   
 # Footer
 footer_show_references: true
