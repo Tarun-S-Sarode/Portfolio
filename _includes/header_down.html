@@ -86,14 +86,14 @@
         {%- if site.email_user -%}
           <li>
             <a target="_blank" href="mailto:{{ site.email_user| cgi_escape | escape }}" class="button button--sacnite button--round-l">
-              <i class="fa fa-envelope" title="Linkedin link"></i>
+              <i class="fa fa-envelope" title="Email Link"></i>
             </a>
           </li>
         {%- endif -%}
-        {%- if site.linkedin_username -%}
+        {%- if site.phone_user -%}
           <li>
-            <a target="_blank" href="https://www.linkedin.com/in/{{ site.linkedin_username| cgi_escape | escape }}" class="button button--sacnite button--round-l">
-              <i class="fas fa-envelope" title="Email Link"></i>
+            <a target="_blank" href="tel:{{ site.phone_user| cgi_escape | escape }}" class="button button--sacnite button--round-l">
+              <i class="fas fa-envelope" title="Contact"></i>
             </a>
           </li>
         {%- endif -%}
