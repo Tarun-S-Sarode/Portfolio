@@ -82,14 +82,14 @@ l<div class="container header_down-contianer">
          {%- if site.email_username -%}
           <li>
             <a target="_blank" href="mailto:{{ site.email_user| cgi_escape | escape }}" class="button button--sacnite button--round-l">
-              <i class="fas fa-envelop" title="Email link"></i>
+              <i class="fa fa-envelop" title="Email link"></i>
             </a>
           </li>
         {%- endif -%}
         {%- if site.phone_username -%}
           <li>
             <a target="_blank" href="{{ site.phone_user| cgi_escape | escape }}" class="button button--sacnite button--round-l">
-              <i class="fas fa-phone" title="Contact"></i>
+              <i class="fa fa-phone" title="Contact"></i>
             </a>
           </li>
         {%- endif -%}
