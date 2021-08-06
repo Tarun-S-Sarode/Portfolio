@@ -1,8 +1,8 @@
 <div class="container header_down-contianer">
   <div class="row">
     <div class="col-xs-12 col-sm-6 col-md-6 col-lg-8 header_down-left">
-      <h1>{{ site.name | escape }}</h1>
-      <h2>{{ site.title | escape }}</h2>
+      <h1>{{ site.name_down | escape }}</h1>
+      <h2>{{ site.title_down | escape }}</h2>
     </div>
     <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4 header_down-right">
       <ul class="icons no-print">
@@ -100,14 +100,14 @@
         
       </ul>
 
-      {%- if site.email -%}
+      {%- if site.email_down -%}
         <p>
-          Email: <a href="mailto:{{ site.email }}" target="_blank">{{ site.email | escape }}</a>
+          Email: <a href="mailto:{{ site.email_down }}" target="_blank">{{ site.email_down | escape }}</a>
         </p>
       {%- endif -%}
-      {%- if site.phone -%}
+      {%- if site.phone_down -%}
         <p>
-          Phone: {{ site.phone | escape }}
+          Phone: {{ site.phone_down | escape }}
         </p>
       {%- endif -%}
       {%- if site.website -%}
