@@ -99,7 +99,7 @@ more_content: | # this will include new lines to allow paragraphs
  
  
  
-<link rel="shortcut icon" type="image/x-icon" href="{ linkedin_username | tarun-s-sarode }}"> 
+# <link rel="shortcut icon" type="image/x-icon" href="{ linkedin_username | tarun-s-sarode }}"> 
 
   
 # Footer
