@@ -53,10 +53,13 @@ about_content: | # this will include new lines to allow paragraphs
 # more content sction
 more_title1: Certifications #(Use this to override about more section title)
 more_content1: | # this will include new lines to allow paragraphs
-    
-    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="29c0f7e0-b254-4603-93fe-5b19fbd52dc2" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script> [Microsoft Office Specialist: Excel]()- Microsoft
+  
+  * [Microsoft Office Specialist](/Portfolio/images/docs/SMI.jpg)   
+    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="29c0f7e0-b254-4603-93fe-5b19fbd52dc2" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script> 
+  * [Microsoft Office Specialist: Excel]()- Microsoft
 # * [<img src="images/MS Office Specialist.png" alt="Badge" width="80" height="80" class="mb-0">](https://www.credly.com/badges/29c0f7e0-b254-4603-93fe-5b19fbd52dc2/public_url)[Microsoft Office Specialist: Excel]()- Microsoft
-    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f8ebf81f-e661-4bce-88f3-a7fe991d2cec" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script> [Predictive Modelling Using Logistic Regression](https://drive.google.com/file/d/1dBwPwcGgsXEX0MCtkvQnhDJwWK8WvBq4/view?usp=sharing) - SAS
+    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f8ebf81f-e661-4bce-88f3-a7fe991d2cec" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script> 
+  * [Predictive Modelling Using Logistic Regression](https://drive.google.com/file/d/1dBwPwcGgsXEX0MCtkvQnhDJwWK8WvBq4/view?usp=sharing) - SAS
 # * [<img src="images/PMLR.png" alt="Badge" width="80" height="80" class="mb-0">](https://www.credly.com/badges/f8ebf81f-e661-4bce-88f3-a7fe991d2cec/public_url)[Predictive Modelling Using Logistic Regression](https://drive.google.com/file/d/1dBwPwcGgsXEX0MCtkvQnhDJwWK8WvBq4/view?usp=sharing) - SAS
     <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7b2eafe8-f780-4005-9baf-dffcfdf38ac5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 # * [<img src="images/RMITsas.png" alt="Badge" width="80" height="80" class="mb-0">](https://www.credly.com/badges/f8ebf81f-e661-4bce-88f3-a7fe991d2cec/public_url)[Predictive Modelling Using Logistic Regression](https://drive.google.com/file/d/1dBwPwcGgsXEX0MCtkvQnhDJwWK8WvBq4/view?usp=sharing) - SAS
