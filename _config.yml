@@ -7,7 +7,7 @@ repository:  Tarun-S-Sarode/Portfolio
 name: Tarun.S.Sarode
 title: Data Analyst
 email: tarun.sarode@outlook.com
-# phone: +61 458-728-574 (optional)
+phone: +61 458-728-574
 # cv   : "resume.pdf"
 # website: Your website (eg. https://google.com)(optional)
 
@@ -32,7 +32,6 @@ linkedin_username: tarun-s-sarode
 about_profile_image: images/IMG-20200109-WA0003 - 1-53e42072-a2cd-11eb-9940-c27ccc2331ef-98031ad8-a2cd-11eb-9940-c27ccc2331ef.jpg
 about_content: | # this will include new lines to allow paragraphs
     Hi, 
-      ![brother](/Portfolio/images/IMG_0072.jpg "brother") ####################################################3
 #  Write an awesome description about yourself here, this supports markdown, so you can add links and highlight things <mark>like this</mark>.
 #  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
 #    - [My Awesome Resume](https://moya10.github.io/awesome-cv/resume.pdf)
@@ -61,8 +60,8 @@ more_content1: | # this will include new lines to allow paragraphs
   [<img src="images/PMLR sq.png" alt="Badge" width="180" height="210">](https://www.credly.com/badges/f8ebf81f-e661-4bce-88f3-a7fe991d2cec/public_url)[Predictive Modelling with Linear Regression](https://drive.google.com/file/d/1dBwPwcGgsXEX0MCtkvQnhDJwWK8WvBq4/view?usp=sharing)
   <p></p>
   [<img src="images/RMITsas sq.png" alt="Badge" width="180" height="210">](https://www.credly.com/badges/7b2eafe8-f780-4005-9baf-dffcfdf38ac5/public_url)[Academic Specialisation in Advanced Analytics]()
-  <p> </p> 
-  <p> </p>
+  <p>.</p> 
+  <p>.</p>
   <p> </p>
   <p> </p>
   * [Fundamental  Analysis and Technical Analysis of Stock Market](https://drive.google.com/file/d/1QaSpz2YxCasy6qBRa26F1X_hv0gojNds/view?usp=sharing)
