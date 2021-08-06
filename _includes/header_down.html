@@ -83,9 +83,9 @@
             </a>
           </li>
         {%- endif -%}
-        {%- if site.linkedin_username -%}
+        {%- if site.email_user -%}
           <li>
-            <a target="_blank" href="https://www.linkedin.com/in/{{ site.linkedin_username| cgi_escape | escape }}" class="button button--sacnite button--round-l">
+            <a target="_blank" href="{{ site.email_user| cgi_escape | escape }}" class="button button--sacnite button--round-l">
               <i class="fa fa-envelope" title="Linkedin link"></i>
             </a>
           </li>
@@ -93,7 +93,7 @@
         {%- if site.linkedin_username -%}
           <li>
             <a target="_blank" href="https://www.linkedin.com/in/{{ site.linkedin_username| cgi_escape | escape }}" class="button button--sacnite button--round-l">
-              <i class="fas fa-phone" title="Linkedin link"></i>
+              <i class="fas fa-envelope" title="Email Link"></i>
             </a>
           </li>
         {%- endif -%}
