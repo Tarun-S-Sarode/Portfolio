@@ -1,1 +1,6 @@
-askldnv
+<div class="container skills-container">
+  <h3>{{ site.skills_title | default: "Skills" }}</h3>
+  {% for education in site.data.skills %}
+    {% include {{ skills.layout | default: 'left' | append: ".html" }} item=skills %}
+  {% endfor %}
+</div>
