@@ -1,7 +1,7 @@
 # Site
 repository:  Tarun-S-Sarode/Portfolio
 # Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
-# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+favicon: images/logo.png (eg. images/favicon.ico)(optional)
 
 # Personal info
 name: Tarun.S.Sarode
