@@ -28,6 +28,14 @@ phone: +61 458-728-574
 #youtube_username: jekyll
 #googleplus_username: +jekyll
 
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+google_analytics: "UA-00000000-0"
+
+
+
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/IMG-20200109-WA0003 - 1-53e42072-a2cd-11eb-9940-c27ccc2331ef-98031ad8-a2cd-11eb-9940-c27ccc2331ef.jpg
