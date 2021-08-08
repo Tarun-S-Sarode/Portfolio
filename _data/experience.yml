@@ -2,7 +2,7 @@
 - layout: left
   company: <img src="images/cogstate.png" alt="Cogstate" width="170" height="140">  Research Data Analyst
   # image: /assets/img/thumb.png # is not working should check how to add company icon
-  job_title: Research Data Analyst
+  # job_title: Research Data Analyst
   dates: July 2019 - November 2019
   #link: Link to company (optional)
   quote: >
