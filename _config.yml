@@ -30,8 +30,8 @@ phone: +61 458-728-574
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
-gtm: "G-MY767EC72Y"
-# gtag: "UA-00000000-0"
+# gtm: "G-MY767EC72Y"
+gtag: "UA-204306131-1"
 # google_analytics: "G-MY767EC72Y"
 
 
