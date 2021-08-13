@@ -41,8 +41,12 @@ gtag: UA-204447584-1
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/IMG-20200109-WA0003 - 1-53e42072-a2cd-11eb-9940-c27ccc2331ef-98031ad8-a2cd-11eb-9940-c27ccc2331ef.jpg
 about_content: | # this will include new lines to allow paragraphs
-    Hi, I'm  Tarun, I like to work with Data and have been doing it since last 3 years. I am a Data Science Graduate and I see myself in helping 
-    companies in analysing and playing a crutial role in uncovering insight to solve problems and desire to excel in my career.  
+      Hi, I'm  Tarun, I like to work with Data and have been doing it for the last three years. 
+      I am a strong analytical professional with a Master's Degree focused on Data analysis with
+      skills in Statistical Data Analysis, Data Transformation and Management along with
+      Statistical Software skills and I see myself helping companies in analysing and playing
+      a crucial role in uncovering insight to solve problems along with my aim and desire to excel in my career.
+      
 #  Write an awesome description about yourself here, this supports markdown, so you can add links and highlight things <mark>like this</mark>.
 #  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
 #    - [My Awesome Resume](https://moya10.github.io/awesome-cv/resume.pdf)
