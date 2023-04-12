@@ -1,4 +1,25 @@
 # Experience template
+
+- layout: left
+  company: <img src="images/TGE.png" alt="Team Global Express" width="170" height="140">  BI Reporting Analyst
+  # image: /assets/img/thumb.png # is not working should check how to add company icon
+  # job_title: Research Data Analyst
+  dates: January 2022 - March 2023
+  #link: Link to company (optional)
+  quote: >
+   Toll Global Express is a multi-modal transport business which provides express parcel, freight delivery and domestic forwarding with an unparalleled network across Australia and New Zealand.
+  description: | # this will include new lines to allow paragraphs
+   Responsibilities
+   - Developed automated business analysis and data recording systems to facilitate the business data collection and reporting.
+   - Conducted regular reviews of data reports to identify and resolve errors, ensuring data accuracy and reliability.
+   - Generated business reports that provide valuable insights into key data points, enabling better decision-making.
+   - Communicated data analysis results to management through well-crafted written and verbal presentations, highlighting key findings and recommendations.
+   - Collaborated closely with project and stakeholders to support the successful delivery of initiatives.
+   - Provided training to personnel in the business to ensure they have the necessary skills and knowledge to effectively use the automated business analysis and data recording systems.
+   - Performed other duties as required to support the business in achieving objectives within timeline.
+
+
+
 - layout: left
   company: <img src="images/cogstate.png" alt="Cogstate" width="170" height="140">  Research Data Analyst
   # image: /assets/img/thumb.png # is not working should check how to add company icon
