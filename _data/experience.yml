@@ -1,7 +1,7 @@
 # Experience template
 
 - layout: left
-  company: <img src="images/TGE.png" alt="Team Global Express" width="180" height="150">  BI Reporting Analyst
+  company: <img src="images/TGE.png" alt="Team Global Express" width="200" height="150">  BI Reporting Analyst.
   # image: /assets/img/thumb.png # is not working should check how to add company icon
   # job_title: Research Data Analyst
   dates: January 2022 - March 2023
