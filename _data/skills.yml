@@ -10,11 +10,13 @@
   # quote: 
   #  Short institution or course description (optional)
   description: | # this will include new lines to allow paragraphs
-     I am most skilled in R (RStudio) and well versed in 
-     * MS Office (Excel, Word, PPT, Access, Teams)
-     * Python (Jupyter)
-     * SAS (SAS Studio)
+     My expertise include 
+     * Power BI (DAX and Power Query)
      * SQL
+     * R Studio
+     * Python (Jupyter)
+     * MS Office (Excel, Word, PPT, Access, Teams)
+     * SAS (SAS Studio)
      * SPSS
      
 - layout: skills_left
